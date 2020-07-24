@@ -1,6 +1,6 @@
 # 📷 BGPix
 
-Ljósmyndasíða fyrir pabba með tengingu við Prismic. Hægt er að skoða síðu [hér](https://eloquent-meninsky-cc9cb4.netlify.app)
+Ljósmyndasíða fyrir pabba með tengingu við Prismic.
 
 ## Project setup
 ```
