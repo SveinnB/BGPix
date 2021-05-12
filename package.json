@@ -12,7 +12,7 @@
     "prismic-dom": "^2.2.3",
     "prismic-javascript": "^2.7.1",
     "prismic-vue": "^2.0.0",
-    "swiper": "^5.3.8",
+    "swiper": "^6.5.1",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
     "vuetify": "^2.2.26"
